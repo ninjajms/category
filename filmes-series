@@ -113,7 +113,8 @@
 			"name":"MEGAPIX HD",
 			"link":"https://canaismax.com/assistir.php?chmax=megapixhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/8e98b42584b1a930aee9241e73fa.png?alt=media&token=7c008d78-e45d-4513-ad00-3fed61e0eacd"
-		}{
+		},
+                {
 			"id":20,
 			"name":"MEGAPIX SD",
 			"link":"https://canaismax.com/assistir.php?chmax=megapixsd",
@@ -167,7 +168,7 @@
 			"link":"https://canaismax.com/assistir.php?chmax=telecineactionsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Action_2.png?alt=media&token=d6dda0ce-15c2-4d22-a366-ba95c135ef08"
 		},
-        {
+                {
 			"id":29,
 			"name":"TELECINE CULT HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecineculthd",
@@ -179,7 +180,7 @@
 			"link":"https://canaismax.com/assistir.php?chmax=telecinecultsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/tccultb.png?alt=media&token=48a707bf-8be0-495f-9324-1ee7f1880581"
 		},
-        {
+                {
 			"id":31,
 			"name":"TELECINE PIPOCA HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinepipocahd",
@@ -203,7 +204,7 @@
 			"link":"https://canaismax.com/assistir.php?chmax=telecinepremiumsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Premium.png?alt=media&token=bf2d0b0b-1f71-418c-bca0-3772b5feab74"
 		},
-        {
+                {
 			"id":35,
 			"name":"TELECINE TOUCH HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinetouchhd",
@@ -227,7 +228,7 @@
 			"link":"https://canaismax.com/assistir.php?chmax=tntsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1000px-TNT_Logo_2016.svg.png?alt=media&token=c805e691-d762-4f35-bd58-e207865d9d9c"
 		},
-        {
+                {
 			"id":39,
 			"name":"TNT SERIES HD",
 			"link":"https://canaismax.com/assistir.php?chmax=tntserieshd",
@@ -239,7 +240,7 @@
 			"link":"https://canaismax.com/assistir.php?chmax=tntseriessd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T144015.682.png?alt=media&token=77e3bfa0-b1e8-41e6-b391-ffe2310b0ceb"
 		},
-        {
+                {
 			"id":41,
 			"name":"UNIVERSAL HD",
 			"link":"https://canaismax.com/assistir.php?chmax=universalhd",
