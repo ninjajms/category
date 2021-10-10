@@ -2,7 +2,7 @@
 	"cats":[
 		{
 			"id":1,
-			"name":"SPORTS",
+			"name":"SPORT",
 			"link_canais":"https://raw.githubusercontent.com/ninjajms/category/main/sportes"
 		},
 		{
