@@ -101,45 +101,45 @@
 			"name":"SPORTV 3 - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=sportv3hd",
 			"poster_path":"https://i.imgur.com/nvCjg9X.png"
-	     },
-	     {
+	        },
+	        {
 			"id":18,
 			"name":"SPORTV 3 - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=sportv3sd",
 			"poster_path":"https://i.imgur.com/nvCjg9X.png"
-	     },
+	         },
 		 {
-            "id":19,
+                        "id":19,
 			"name":"BAND SPORTS - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=bandsportshd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
 		},
 		{
-            "id":20,
+                        "id":20,
 			"name":"BAND SPORTS - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=bandsportssd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
 		},
 		{
-            "id":21,
+                        "id":21,
 			"name":"COMBATE - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=combatehd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
 		},
 		{
-            "id":22,
+                        "id":22,
 			"name":"COMBATE - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=combatesd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
 		},
 		{
-            "id":23,
+                        "id":23,
 			"name":"DISCOVERY TURBO - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbohd",
 			"poster_path":"https://i.imgur.com/kTrySJZ.png"
 		},
 		{
-            "id":24,
+                        "id":24,
 			"name":"DISCOVERY TURBO - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbosd",
 			"poster_path":"https://i.imgur.com/kTrySJZ.png"
