@@ -13,7 +13,7 @@
 		{
 			"id":3,
 			"name":"FILMES / SÉRIES",
-			"link_canais":"http://20.195.225.3/canaismax-json/filmes.txt"
+			"link_canais":"https://raw.githubusercontent.com/ninjajms/category/main/filmes-series"
 		},
 		{
 			"id":4,
