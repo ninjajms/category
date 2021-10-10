@@ -2,146 +2,74 @@
 	"cinemovies":[
 		{
 			"id":1,
-			"name":"FOX SPORTS - HD",
+			"name":"FOX SPORTS",
 			"link":"https://canaismax.com/assistir.php?chmax=foxsportshd",
 			"poster_path":"https://i.imgur.com/clrUXra.png"
 		},
 		{
 			"id":2,
-			"name":"FOX SPORTS - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=foxsportssd",
-			"poster_path":"https://i.imgur.com/clrUXra.png"
-		},
-		{
-			"id":3,
-			"name":"FOX SPORTS 2 - HD",
+			"name":"FOX SPORTS 2",
 			"link":"https://canaismax.com/assistir.php?chmax=foxsports2hd",
 			"poster_path":"https://i.imgur.com/clrUXra.png"
 		},
 		{
-			"id":4,
-			"name":"FOX SPORTS 2 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=foxsports2sd",
-			"poster_path":"https://i.imgur.com/clrUXra.png"
-		},
-		{
-			"id":5,
-			"name":"ESPN BRASIL - HD",
+			"id":3,
+			"name":"ESPN BRASIL",
 			"link":"https://canaismax.com/assistir.php?chmax=espnbrasilhd",
 			"poster_path":"https://i.imgur.com/ZkUIQ8X.png"
 		},
 		{
-			"id":6,
-			"name":"ESPN BRASIL - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnbrasilsd",
-			"poster_path":"https://i.imgur.com/ZkUIQ8X.png"
-		},
-		{
-			"id":7,
-			"name":"ESPN - HD",
+			"id":4,
+			"name":"ESPN",
 			"link":"https://canaismax.com/assistir.php?chmax=espnhd",
 			"poster_path":"https://i.imgur.com/69VH6Ln.png"
 		},
 		{
-			"id":8,
-			"name":"ESPN - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnsd",
-			"poster_path":"https://i.imgur.com/69VH6Ln.png"
-		},
-		{
-			"id":9,
-			"name":"ESPN EXTRA - HD",
+			"id":5,
+			"name":"ESPN EXTRA",
 			"link":"https://canaismax.com/assistir.php?chmax=espnextrahd",
 			"poster_path":"https://i.imgur.com/xWKhnHp.png"
 		},
 		{
-			"id":10,
-			"name":"ESPN EXTRA - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnextrasd",
-			"poster_path":"https://i.imgur.com/xWKhnHp.png"
-		},
-		{
-			"id":11,
-			"name":"PREMIERE 1 - HD",
+			"id":6,
+			"name":"PREMIERE",
 			"link":"https://canaismax.com/assistir.php?chmax=premiere1hd",
 			"poster_path":"https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
 		},
 		{
-			"id":12,
-			"name":"PREMIERE 1 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=premiere1sd",
-			"poster_path":"https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
-		},
-		{
-			"id":13,
-			"name":"SPORTV - HD",
+			"id":7,
+			"name":"SPORTV",
 			"link":"https://canaismax.com/assistir.php?chmax=sportvhd",
 			"poster_path":"https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png"
 		},
 		{
-			"id":14,
-			"name":"SPORTV - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportvsd",
-			"poster_path":"https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png"
-		},
-		{
-			"id":15,
-			"name":"SPORTV 2 - HD",
+			"id":8,
+			"name":"SPORTV 2",
 			"link":"https://canaismax.com/assistir.php?chmax=sportv2hd",
 			"poster_path":"https://i.imgur.com/V0k4CDo.png"
 		},
 		{
-			"id":16,
-			"name":"SPORTV 2 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportv2sd",
-			"poster_path":"https://i.imgur.com/V0k4CDo.png"
-		},
-		{
-			"id":17,
-			"name":"SPORTV 3 - HD",
+			"id":9,
+			"name":"SPORTV 3",
 			"link":"https://canaismax.com/assistir.php?chmax=sportv3hd",
 			"poster_path":"https://i.imgur.com/nvCjg9X.png"
-	        },
-	        {
-			"id":18,
-			"name":"SPORTV 3 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportv3sd",
-			"poster_path":"https://i.imgur.com/nvCjg9X.png"
-	         },
+	     },
 		 {
-                        "id":19,
-			"name":"BAND SPORTS - HD",
+            "id":10,
+			"name":"BAND SPORTS",
 			"link":"https://canaismax.com/assistir.php?chmax=bandsportshd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
 		},
 		{
-                        "id":20,
-			"name":"BAND SPORTS - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=bandsportssd",
-			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
-		},
-		{
-                        "id":21,
-			"name":"COMBATE - HD",
+            "id":11,
+			"name":"COMBATE",
 			"link":"https://canaismax.com/assistir.php?chmax=combatehd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
 		},
 		{
-                        "id":22,
-			"name":"COMBATE - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=combatesd",
-			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
-		},
-		{
-                        "id":23,
-			"name":"DISCOVERY TURBO - HD",
+            "id":12,
+			"name":"DISCOVERY TURBO",
 			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbohd",
-			"poster_path":"https://i.imgur.com/kTrySJZ.png"
-		},
-		{
-                        "id":24,
-			"name":"DISCOVERY TURBO - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbosd",
 			"poster_path":"https://i.imgur.com/kTrySJZ.png"
 		}
 	]
