@@ -3,12 +3,12 @@
 		{
 			"id":1,
 			"name":"SPORTS",
-			"link_canais":"http://20.195.225.3/canaismax-json/sportes.txt"
+			"link_canais":"https://raw.githubusercontent.com/ninjajms/category/main/sportes"
 		},
 		{
 			"id":2,
 			"name":"ABERTOS",
-			"link_canais":"http://20.195.225.3/canaismax-json/abertos.txt"
+			"link_canais":"https://raw.githubusercontent.com/ninjajms/category/main/abertos"
 		},
 		{
 			"id":3,
