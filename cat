@@ -2,7 +2,7 @@
 	"cats":[
 		{
 			"id":1,
-			"name":"SPORT",
+			"name":"SPORTS",
 			"link_canais":"https://raw.githubusercontent.com/ninjajms/category/main/sportes"
 		},
 		{
@@ -17,12 +17,12 @@
 		},
 		{
 			"id":4,
-			"name":"INFANTIL",
-			"link_canais":"http://20.195.225.3/canaismax-json/desenhos.txt"
+			"name":"DESENHOS",
+			"link_canais":"https://raw.githubusercontent.com/ninjajms/category/main/desenhos"
 		},
 		{
 			"id":4,
-			"name":"DOCUMENTÁRIO",
+			"name":"DOCUMENTÁRIOS",
 			"link_canais":"http://20.195.225.3/canaismax-json/documentarios.txt"
 		}
 	]
