@@ -2,253 +2,253 @@
 	"cinemovies":[
 		{
 			"id":1,
-			"name":"AMC HD",
+			"name":"AMC - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=amchd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142219.214.png?alt=media&token=213ad169-a1c7-4597-968a-ce2c55ce5b6d"
 		},
 		{
 			"id":2,
-			"name":"AMC SD",
+			"name":"AMC - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=amcsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142219.214.png?alt=media&token=213ad169-a1c7-4597-968a-ce2c55ce5b6d"
 		},
 		{
 			"id":3,
-			"name":"AXN HD",
+			"name":"AXN - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=axnhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-AXN_logo_(2015).svg.png?alt=media&token=570e7432-51d4-43d4-b82e-6c17ef9a91f5"
 		},
 		{
 			"id":4,
-			"name":"AXN SD",
+			"name":"AXN - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=axnsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-AXN_logo_(2015).svg.png?alt=media&token=570e7432-51d4-43d4-b82e-6c17ef9a91f5"
 		},
 		{
 			"id":5,
-			"name":"CINEMAX HD",
+			"name":"CINEMAX - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=cinemaxhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/br_cinemax-basic_m.png?alt=media&token=3033cb8d-f339-4a7c-872a-d943a76d205c"
 		},
 		{
 			"id":6,
-			"name":"CINEMAX SD",
+			"name":"CINEMAX - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=cinemaxsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/br_cinemax-basic_m.png?alt=media&token=3033cb8d-f339-4a7c-872a-d943a76d205c"
 		},
 		{
 			"id":7,
-			"name":"FX HD",
+			"name":"FX - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=fxhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-FX_International_logo.svg.png?alt=media&token=6638068a-7f0e-4ec1-bcc3-bec35c805c95"
 		},
 		{
 			"id":8,
-			"name":"FX SD",
+			"name":"FX - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=fxsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-FX_International_logo.svg.png?alt=media&token=6638068a-7f0e-4ec1-bcc3-bec35c805c95"
 		},
 		{
 			"id":9,
-			"name":"HBO FAMILY HD",
+			"name":"HBO FAMILY - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbofamilyhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/hbofamily.png?alt=media&token=787df656-1c86-49c3-8f3f-ca048d9a60ce"
 		},
 		{
 			"id":10,
-			"name":"HBO FAMILY SD",
+			"name":"HBO FAMILY - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbofamilysd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/hbofamily.png?alt=media&token=787df656-1c86-49c3-8f3f-ca048d9a60ce"
 		},
 		{
 			"id":11,
-			"name":"HBO MUNDI HD",
+			"name":"HBO MUNDI - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbomundihd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-HBO_Mundi.svg.png?alt=media&token=249f051a-7295-444e-b792-8d35903193cc"
 		},
 		{
 			"id":12,
-			"name":"HBO MUNDI SD",
+			"name":"HBO MUNDI - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbomundisd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-HBO_Mundi.svg.png?alt=media&token=249f051a-7295-444e-b792-8d35903193cc"
 		},
 		{
 			"id":13,
-			"name":"HBO POP HD",
+			"name":"HBO POP - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbopophd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142600.132.png?alt=media&token=e8af429a-8f79-4401-9420-3e69c1234274"
 		},
 		{
 			"id":14,
-			"name":"HBO POP SD",
+			"name":"HBO POP - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbopopsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142600.132.png?alt=media&token=e8af429a-8f79-4401-9420-3e69c1234274"
 		},
 		{
 			"id":15,
-			"name":"HBO PLUS HD",
+			"name":"HBO PLUS - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=hboplushd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142539.666.png?alt=media&token=a08f5cb8-762c-47f2-af5f-5726c2b81eeb"
 		},
 		{
 			"id":16,
-			"name":"HBO PLUS SD",
+			"name":"HBO PLUS - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=hboplussd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T142539.666.png?alt=media&token=a08f5cb8-762c-47f2-af5f-5726c2b81eeb"
 		},
 		{
 			"id":17,
-			"name":"HBO SIGNATURE HD",
+			"name":"HBO SIGNATURE - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbosignaturehd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-HBO_Signature.svg.png?alt=media&token=e431c4e8-936d-4100-94ac-310af9210f45"
 		},
 		{
 			"id":18,
-			"name":"HBO SIGNATURE SD",
+			"name":"HBO SIGNATURE - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=hbosignaturesd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-HBO_Signature.svg.png?alt=media&token=e431c4e8-936d-4100-94ac-310af9210f45"
 		},
 		{
 			"id":19,
-			"name":"MEGAPIX HD",
+			"name":"MEGAPIX - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=megapixhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/8e98b42584b1a930aee9241e73fa.png?alt=media&token=7c008d78-e45d-4513-ad00-3fed61e0eacd"
 		},
                 {
 			"id":20,
-			"name":"MEGAPIX SD",
+			"name":"MEGAPIX - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=megapixsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/8e98b42584b1a930aee9241e73fa.png?alt=media&token=7c008d78-e45d-4513-ad00-3fed61e0eacd"
 		},
 		{
 			"id":21,
-			"name":"SPACE HD",
+			"name":"SPACE - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=spacehd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/spacehd.png?alt=media&token=9c9e14fd-fc48-421f-bcbd-ac102978303d"
 		},
 		{
 			"id":22,
-			"name":"SPACE SD",
+			"name":"SPACE - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=spacesd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/spacehd.png?alt=media&token=9c9e14fd-fc48-421f-bcbd-ac102978303d"
 		},
 		{
 			"id":23,
-			"name":"SYFY HD",
+			"name":"SYFY - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=syfyhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T143154.596.png?alt=media&token=2e461c2d-866a-43e8-8688-0453917f1e9f"
 		},
 		{
 			"id":24,
-			"name":"SYFY SD",
+			"name":"SYFY - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=syfysd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T143154.596.png?alt=media&token=2e461c2d-866a-43e8-8688-0453917f1e9f"
 		},
 		{
 			"id":25,
-			"name":"TBS HD",
+			"name":"TBS - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=tbshd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-TBS_logo_2016.svg.png?alt=media&token=fe337c9a-2f04-4abb-8dda-0e6e14808710"
 		},
 		{
 			"id":26,
-			"name":"TBS SD",
+			"name":"TBS - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=tbssd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-TBS_logo_2016.svg.png?alt=media&token=fe337c9a-2f04-4abb-8dda-0e6e14808710"
 		},
 		{
 			"id":27,
-			"name":"TELECINE ACTION HD",
+			"name":"TELECINE ACTION - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecineactionhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Action_2.png?alt=media&token=d6dda0ce-15c2-4d22-a366-ba95c135ef08"
 		},
 		{
 			"id":28,
-			"name":"TELECINE ACTION SD",
+			"name":"TELECINE ACTION - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecineactionsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Action_2.png?alt=media&token=d6dda0ce-15c2-4d22-a366-ba95c135ef08"
 		},
                 {
 			"id":29,
-			"name":"TELECINE CULT HD",
+			"name":"TELECINE CULT - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecineculthd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/tccultb.png?alt=media&token=48a707bf-8be0-495f-9324-1ee7f1880581"
 		},
 		{
 			"id":30,
-			"name":"TELECINE CULT SD",
+			"name":"TELECINE CULT - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinecultsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/tccultb.png?alt=media&token=48a707bf-8be0-495f-9324-1ee7f1880581"
 		},
                 {
 			"id":31,
-			"name":"TELECINE PIPOCA HD",
+			"name":"TELECINE PIPOCA - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinepipocahd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1024px-Telecine_Pipoca.png?alt=media&token=bcc9a42e-557a-4ad2-9c1f-68495238df17"
 		},
 		{
 			"id":32,
-			"name":"TELECINE PIPOCA SD",
+			"name":"TELECINE PIPOCA - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinepipocasd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1024px-Telecine_Pipoca.png?alt=media&token=bcc9a42e-557a-4ad2-9c1f-68495238df17"
 		},
 		{
 			"id":33,
-			"name":"TELECINE PREMIUM HD",
+			"name":"TELECINE PREMIUM - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinepremiumhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Premium.png?alt=media&token=bf2d0b0b-1f71-418c-bca0-3772b5feab74"
 		},
 		{
 			"id":34,
-			"name":"TELECINE PREMIUM SD",
+			"name":"TELECINE PREMIUM - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinepremiumsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Premium.png?alt=media&token=bf2d0b0b-1f71-418c-bca0-3772b5feab74"
 		},
                 {
 			"id":35,
-			"name":"TELECINE TOUCH HD",
+			"name":"TELECINE TOUCH - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinetouchhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Touch_3.png?alt=media&token=6bc6e72e-42a0-464d-ab97-6d3ed7e2c1c4"
 		},
 		{
 			"id":36,
-			"name":"TELECINE TOUCH SD",
+			"name":"TELECINE TOUCH - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=telecinetouchsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/Telecine_Touch_3.png?alt=media&token=6bc6e72e-42a0-464d-ab97-6d3ed7e2c1c4"
 		},
 		{
 			"id":37,
-			"name":"TNT HD",
+			"name":"TNT - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=tnthd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1000px-TNT_Logo_2016.svg.png?alt=media&token=c805e691-d762-4f35-bd58-e207865d9d9c"
 		},
 		{
 			"id":38,
-			"name":"TNT SD",
+			"name":"TNT - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=tntsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1000px-TNT_Logo_2016.svg.png?alt=media&token=c805e691-d762-4f35-bd58-e207865d9d9c"
 		},
                 {
 			"id":39,
-			"name":"TNT SERIES HD",
+			"name":"TNT SERIES - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=tntserieshd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T144015.682.png?alt=media&token=77e3bfa0-b1e8-41e6-b391-ffe2310b0ceb"
 		},
 		{
 			"id":40,
-			"name":"TNT SERIES SD",
+			"name":"TNT SERIES - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=tntseriessd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/images%20-%202021-05-17T144015.682.png?alt=media&token=77e3bfa0-b1e8-41e6-b391-ffe2310b0ceb"
 		},
                 {
 			"id":41,
-			"name":"UNIVERSAL HD",
+			"name":"UNIVERSAL - HD",
 			"link":"https://canaismax.com/assistir.php?chmax=universalhd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Universal_TV_logo.svg.png?alt=media&token=04d88d84-89f0-4a09-bd08-d96bcb4ae4d9"
 		},
 		{
 			"id":42,
-			"name":"UNIVERSAL SD",
+			"name":"UNIVERSAL - SD",
 			"link":"https://canaismax.com/assistir.php?chmax=universalsd",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-Universal_TV_logo.svg.png?alt=media&token=04d88d84-89f0-4a09-bd08-d96bcb4ae4d9"
 		}
