@@ -1,8 +1,10 @@
 {
 login:[
   {
-   "usuario":"190305-Jardel19-30",
-   "usuario":"123456-Jardel19-10"
+   "usuario":"190305-Jardel19-30"
+  },
+  {
+   "usuario":"050319-Jardel19-30"
   }
  ]
 }
