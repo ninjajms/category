@@ -2,9 +2,6 @@
  login:[
   {
   "usuario":"Jardel01-19"
-  },
-  {
-  "usuario":"Jardel02-19"
   }
  ]
 }
