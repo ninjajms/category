@@ -1,148 +1,188 @@
 {
 	"cinemovies":[
 		{
-			"id":1,
-			"name":"FOX SPORTS - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=foxsportshd",
-			"poster_path":"https://i.imgur.com/clrUXra.png"
-		},
-		{
-			"id":2,
-			"name":"FOX SPORTS - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=foxsportssd",
-			"poster_path":"https://i.imgur.com/clrUXra.png"
-		},
-		{
-			"id":3,
-			"name":"FOX SPORTS 2 - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=foxsports2hd",
-			"poster_path":"https://i.imgur.com/clrUXra.png"
-		},
-		{
-			"id":4,
-			"name":"FOX SPORTS 2 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=foxsports2sd",
-			"poster_path":"https://i.imgur.com/clrUXra.png"
-		},
-		{
-			"id":5,
-			"name":"ESPN BRASIL - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnbrasilhd",
-			"poster_path":"https://i.imgur.com/ZkUIQ8X.png"
-		},
-		{
-			"id":6,
-			"name":"ESPN BRASIL - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnbrasilsd",
-			"poster_path":"https://i.imgur.com/ZkUIQ8X.png"
-		},
-		{
-			"id":7,
-			"name":"ESPN - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnhd",
-			"poster_path":"https://i.imgur.com/69VH6Ln.png"
-		},
-		{
-			"id":8,
-			"name":"ESPN - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnsd",
-			"poster_path":"https://i.imgur.com/69VH6Ln.png"
-		},
-		{
-			"id":9,
-			"name":"ESPN EXTRA - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnextrahd",
-			"poster_path":"https://i.imgur.com/xWKhnHp.png"
-		},
-		{
-			"id":10,
-			"name":"ESPN EXTRA - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=espnextrasd",
-			"poster_path":"https://i.imgur.com/xWKhnHp.png"
-		},
-		{
-			"id":11,
-			"name":"PREMIERE 1 - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=premiere1hd",
-			"poster_path":"https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
-		},
-		{
-			"id":12,
-			"name":"PREMIERE 1 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=premiere1sd",
-			"poster_path":"https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png"
-		},
-		{
-			"id":13,
-			"name":"SPORTV - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportvhd",
-			"poster_path":"https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png"
-		},
-		{
-			"id":14,
-			"name":"SPORTV - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportvsd",
-			"poster_path":"https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png"
-		},
-		{
-			"id":15,
-			"name":"SPORTV 2 - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportv2hd",
-			"poster_path":"https://i.imgur.com/V0k4CDo.png"
-		},
-		{
-			"id":16,
-			"name":"SPORTV 2 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportv2sd",
-			"poster_path":"https://i.imgur.com/V0k4CDo.png"
-		},
-		{
-			"id":17,
-			"name":"SPORTV 3 - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportv3hd",
-			"poster_path":"https://i.imgur.com/nvCjg9X.png"
-	     },
-	     {
-			"id":18,
-			"name":"SPORTV 3 - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=sportv3sd",
-			"poster_path":"https://i.imgur.com/nvCjg9X.png"
-	     },
-		 {
-            "id":19,
-			"name":"BAND SPORTS - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=bandsportshd",
-			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
-		},
-		{
-            "id":20,
-			"name":"BAND SPORTS - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=bandsportssd",
-			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/download%20(12).png?alt=media&token=67d94c9a-a411-4fd6-b382-535420157d4d"
-		},
-		{
-            "id":21,
-			"name":"COMBATE - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=combatehd",
-			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
-		},
-		{
-            "id":22,
-			"name":"COMBATE - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=combatesd",
-			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/imagem1.png?alt=media&token=fa7b887d-75f5-4f51-9509-cef08f2dc8b6"
-		},
-		{
-            "id":23,
-			"name":"DISCOVERY TURBO - HD",
-			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbohd",
-			"poster_path":"https://i.imgur.com/kTrySJZ.png"
-		},
-		{
-            "id":24,
-			"name":"DISCOVERY TURBO - SD",
-			"link":"https://canaismax.com/assistir.php?chmax=discoveryturbosd",
-			"poster_path":"https://i.imgur.com/kTrySJZ.png"
-		}
-	]
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5C8ffCrsQsX8H-Bl8J6dFszv3Rwseeko5AA&usqp=CAU",
+"name":"Carioca2",
+"url1":"https://megafilmeshd50.com/canais/canais.php?canal=carioca2",
+"url2":"https://megafilmeshd50.com/canais/canais.php?canal=carioca2",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:-Bl8J6dFszv3Rwseeko5AA&usqp=CAU",
+"name":"Carioca",
+"url1":"https://megafilmeshd50.com/canais/canais.php?canal=carioca1",
+"url2":"https://megafilmeshd50.com/canais/canais.php?canal=carioca1",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5r0DAlwHzaEuEJ_S7TDbO6AtUL5NNPhgCzw&usqp=CAU",
+"name":"Conmebol4",
+"url1":"http://b5.vc:80/live/valeria/valeria123/72991.m3u8",
+"url2":"http://addondwightfarrokh.ddns.net:8880/live/287994003705/287994003705/31192.m3u8",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5r0DAlwHzaEuEJ_S7TDbO6AtUL5NNPhgCzw&usqp=CAU",
+"name":"Conmebol3",
+"url1":"http://b5.vc:80/live/valeria/valeria123/72987.m3u8",
+"url2":"http://addondwightfarrokh.ddns.net:8880/live/287994003705/287994003705/31190.m3u8",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5r0DAlwHzaEuEJ_S7TDbO6AtUL5NNPhgCzw&usqp=CAU",
+"name":"Conmebol2",
+"url1":"https://megafilmeshd50.com/canais/canais.php?canal=comebol1",
+"url2":"http://addondwightfarrokh.ddns.net:8880/live/287994003705/287994003705/31188.m3u8",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqlrGFGRslUWmfJvLZ8PVJotIDAMHnnhF7Q&usqp=CAU",
+"name":"AllSportsTV",
+"url1":"https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist-480p.m3u8",
+"url2":"https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7bCfkY1DiRYPMAP1DpTfk1poJbudzbKT7_A&usqp=CAU",
+"name":"COMBATE",
+"url1":"https://futemax.gratis/assistir_no_geralcdn.php?canal=combatehd&pasta=mylive",
+"url2":"https://futemax.gratis/assistir_no_geralcdn.php?canal=combatesd&pasta=mylive",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48SD8z1WbAm-xeVRI1DSkjZBwW5O36EMJyQ&usqp=CAU",
+"name":"BandSports",
+"url1":"https://topcanais.com/player/aovivo.php?canal=bandsportshd&pasta=live",
+"url2":"https://topcanais.com/player/aovivo.php?canal=bandsportssd&pasta=live",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"name":"ESPN*",
+"url1":"https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on",
+"url2":"https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAJSbsTYeghF6kawMoqrsd9xLYTNCsOxp2w&usqp=CAU",
+"name":"ESPN2",
+"url1":"https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on",
+"url2":"https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_480_av-b.m3u8?sd=10&rebase=on",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAJSbsTYeghF6kawMoqrsd9xLYTNCsOxp2w&usqp=CAU",
+"name":"ESPNBRASIL",
+"url1":"https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on",
+"url2":"https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"name":"ESPNExtra",
+"url1":"http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8",
+"url2":"http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8",
+"web":"false"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAL7WDgEobQ1qIHxSjTJUOGLUsvgUMhyb1w&usqp=CAU",
+"name":"FoxSports2",
+"url1":"https://futemax.gratis/get/channel/canaistokens/foxsports2",
+"url2":"http://addondwightfarrokh.ddns.net:8880/live/287994003705/287994003705/16724.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAL7WDgEobQ1qIHxSjTJUOGLUsvgUMhyb1w&usqp=CAU",
+"name":"FoxSports",
+"url1":"https://futemax.gratis/get/channel/teudigo/foxsports/vintequatrohrs3",
+"url2":"https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU",
+"name":"PremiereClubes",
+"url1":"https://topcanais.com/player/topcdn.php?id=esportes10",
+"url2":"https://topcanais.com/player/topcdn.php?id=esportes10",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU",
+"name":"Premiere2",
+"url1":"https://homeingles.fun/player3/canaishlbv2.php?canal=premiere2",
+"url2":"http://b5.vc:80/live/valeria/valeria123/72239.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU",
+"name":"Premiere3",
+"url1":"https://homeingles.fun/player3/canaishlbv2.php?canal=premiere3",
+"url2":"http://b5.vc:80/live/valeria/valeria123/72243.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU",
+"name":"Premiere4",
+"url1":"https://homeingles.fun/player3/canaishlbv2.php?canal=premiere4",
+"url2":"http://b5.vc:80/live/valeria/valeria123/72247.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU",
+"name":"Premiere5",
+"url1":"https://homeingles.fun/player3/canaishlbv2.php?canal=premiere5",
+"url2":"http://b5.vc:80/live/valeria/valeria123/72251.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2SGHEaIaTqMoZSzueR9pW2cAb3xlSBrc3A&usqp=CAU",
+"name":"Sportv",
+"url1":"futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs2",
+"url2":"https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2SGHEaIaTqMoZSzueR9pW2cAb3xlSBrc3A&usqp=CAU",
+"name":"Sportv2",
+"url1":"https://futemax.gratis/assistir_no_geralcdn.php?canal=sportv2hd&pasta=mylive",
+"url2":"http://b5.vc:80/live/valeria/valeria123/72323.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2SGHEaIaTqMoZSzueR9pW2cAb3xlSBrc3A&usqp=CAU",
+"name":"Sportv3",
+"url1":"https://futemax.gratis/get/channel/teudigo/premiere8/esportes1",
+"url2":"http://b5.vc:80/live/valeria/valeria123/72327.m3u8",
+"web":"true"
+},
+{
+"cat":"15",
+"poster_path":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPhLJT3QKnjPK0PCGlYnGZrFoMlJJx1gArkg&usqp=CAU",
+"name":"DiscoveryTurbo",
+"url1":"https://topcanais.com/player/aovivo.php?canal=discoveryturbohd&pasta=live",
+"url2":"https://topcanais.com/player/aovivo.php?canal=discoveryturbosd&pasta=live",
+"web":"true"
+}
+]
 }
