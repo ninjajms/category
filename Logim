@@ -1,18 +1,11 @@
 {
  login:[
   {
-  "usuario":"free",
-  "senha":"free",
-  "dia":"15"
-  }
- ]
-}
-{
- login:[
-  {
-  "usuario":"jardel",
-  "senha":"jardel",
-  "dia":"15"
+  "usuario":"free/15",
+  "usuario":"tonho/15",
+  "usuario":"master/15",
+  "usuario":"jardel/15",
+  "usuario":"nene/15"
   }
  ]
 }
