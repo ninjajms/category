@@ -2,14 +2,14 @@
 	"cinemovies":[
 		{
 			"id":1,
-			"name":"GLOBO RJ HD",
-			"link":"https://canaismax.com/assistir.php?chmax=globorjhd",
+			"name":"GLOBO SP HD",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs1",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/globorj.png?alt=media&token=c6430504-493f-46f8-a0b7-12007a973c25"
 		},
 		{
 			"id":1,
-			"name":"GLOBO RJ SD",
-			"link":"https://canaismax.com/assistir.php?chmax=globorjsd",
+			"name":"GLOBO SP SD",
+			"link":"https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&amp;pasta=live",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/globorj.png?alt=media&token=c6430504-493f-46f8-a0b7-12007a973c25"
 		},
 		{
