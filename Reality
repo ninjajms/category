@@ -1,7 +1,7 @@
 {
 	"cinemovies":[
 		{
-			"id":1,
+			"id":0,
 			"name":"BBB22 CÂMERA PRINCIPAL 1",
 			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hras",
 			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
@@ -13,7 +13,61 @@
 			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
 		},
                 {
-			"id":1,
+			"id":2,
+			"name":"Quarto Lollipop",
+			"link":"https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb03hd&amp;pasta=live",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":3,
+			"name":"Quarto Grunge",
+			"link":"https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb04hd&amp;pasta=live",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":4,
+			"name":"BBB22 CÂMERA PRINCIPAL 2",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hrasch2",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":5,
+			"name":"BBB22 CÂMERA PRINCIPAL 2",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hrasch2",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":6,
+			"name":"BBB22 CÂMERA PRINCIPAL 2",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hrasch2",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":7,
+			"name":"BBB22 CÂMERA PRINCIPAL 2",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hrasch2",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":8,
+			"name":"BBB22 CÂMERA PRINCIPAL 2",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hrasch2",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":9,
+			"name":"BBB22 CÂMERA PRINCIPAL 2",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hrasch2",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":10,
+			"name":"BBB22 CÂMERA PRINCIPAL 2",
+			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hrasch2",
+			"poster_path":"https://static.futemax.gratis/wp-content/uploads/27f758159e149c88ccab434f1b3d2d95.jpg"
+		},
+                {
+			"id":6,
 			"name":"MULTISHOW",
 			"link":"https://futemax.gratis/assistir_no_thanksgod.php?id=multishow24hras",
 			"poster_path":"https://static.futemax.gratis/wp-content/uploads/0a73cdba8e11a5409dfbbd54ac488115.jpg"
