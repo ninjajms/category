@@ -15,13 +15,13 @@
 		{
 			"id":2,
 			"name":"DISCOVERY CHANNEL - SD",
-			"link":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverysd",
+			"link":"https://futemax.gratis/assistir_no_geralcdn.php?canal=discoverysd&amp;pasta=live",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/discovery-channel-logo-8.png?alt=media&token=cac5b1e5-7004-4a1e-a421-cde617d1187c"
 		},
 		{
 			"id":2,
 			"name":"DISCOVERY CHANNEL - HD",
-			"link":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryhd",
+			"link":"https://futemax.gratis/assistir_no_geralcdn.php?canal=discoveryhd&amp;pasta=live",
 			"poster_path":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/discovery-channel-logo-8.png?alt=media&token=cac5b1e5-7004-4a1e-a421-cde617d1187c"
 		},
 		{
