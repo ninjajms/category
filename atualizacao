@@ -3,5 +3,7 @@
 "titulo": "Atenção usuário",
 "foto":"https://raw.githubusercontent.com/ninjajms/category/main/20220125_191045.png",
 "sobre": "Você tem uma atualização, aperte em ok para atualizar.",
+"button_ok":"Seguir",
+"button_cancelar":"Depois",
 "url": ""
 }
