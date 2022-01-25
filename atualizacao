@@ -1,6 +1,7 @@
 {
-"manutencao": "false",
+"manutencao": "true",
 "titulo": "Atenção usuário",
+"foto":"https://raw.githubusercontent.com/ninjajms/category/main/20220125_181544.jpg",
 "sobre": "Você tem uma atualização, aperte em ok para atualizar.",
 "url": "https://drive.google.com/file/d/1hPlHuRZ95ylu-h7ZDNThvRoKNHQqrPyZ/view?usp=drivesdk"
 }
