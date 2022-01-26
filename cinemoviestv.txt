@@ -165,7 +165,7 @@
       },
       {
         "nome": "Mosaico",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbbmosaicohd&amp;pasta=live",
+        "url": "https://canaismax.com/assistir.php?chmax=bbbmosaicohd",
         "cat": "1",
         "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
       }
