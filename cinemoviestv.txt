@@ -99,37 +99,73 @@
     "canais": [
     {
         "nome": "CÂMERA PRINCIPAL¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dANIMALPLANETSD",
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hras",
         "cat": "1",
         "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngom-fundo-menor.jpg"
       },
       {
-        "nome": "ANIMAL PLANET²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dANIMALPLANETHD",
+        "nome": "CÂMERA PRINCIPAL²",
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hras",
         "cat": "1",
         "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngc68c6cbd6/internal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
       },
       {
-        "nome": "TLC¹",
+        "nome": "Quarto Lollipop",
         "cat": "1",
         "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngebdf1c68c6cbd6/internal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTLCSD"
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb03hd&amp;pasta=live"
       },
       {
-        "nome": "TLC²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTLCHD",
+        "nome": "Quarto Grunge",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb04hd&amp;pasta=live",
         "cat": "1",
         "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
       },
       {
-        "nome": "DISCOVERY TURBO¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dDISCOVERYTURBOSD",
+        "nome": "Sala",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb07hd&amp;pasta=live",
         "cat": "1",
         "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
       },
       {
-        "nome": "DISCOVERY TURBO²",
+        "nome": "Cozinha",
         "url": "https://esporteone.com/player/canais.php?canal\u003dDISCOVERYTURBOHD",
+        "cat": "1",
+        "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
+      },
+      {
+        "nome": "Picina",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb08hd&amp;pasta=live",
+        "cat": "1",
+        "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
+      },
+      {
+        "nome": "Jardim",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb09hd&amp;pasta=live",
+        "cat": "1",
+        "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
+      },
+      {
+        "nome": "Chuveiro",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb05hd&amp;pasta=live",
+        "cat": "1",
+        "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
+      },
+      {
+        "nome": "Academia",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb10hd&amp;pasta=live",
+        "cat": "1",
+        "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
+      },
+      {
+        "nome": "Confessionário",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb02hd&amp;pasta=live",
+        "cat": "1",
+        "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
+      },
+      {
+        "nome": "Mosaico",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbbmosaicohd&amp;pasta=live",
         "cat": "1",
         "foto": "https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.pngnternal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
       }
