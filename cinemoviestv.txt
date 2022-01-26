@@ -101,7 +101,7 @@
         "nome": "CÂMERA PRINCIPAL¹",
         "url": "https://esporteone.com/player/canais.php?canal\u003dANIMALPLANETSD",
         "cat": "1",
-        "foto": "https://s2.glbimg.com/gjisqQ3vYmZ-990QIBh0naQwdL8=/0x0:984x554/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
+        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.pngc68c6cbd6/internal_photos/bs/2022/7/c/1BvxZ6SlWvlAZJVoWo8w/logo-bbb22-com-fundo-menor.jpg"
       },
       {
         "nome": "ANIMAL PLANET²",
