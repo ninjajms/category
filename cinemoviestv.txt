@@ -101,55 +101,55 @@
         "nome": "CÂMERA PRINCIPAL¹",
         "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hras",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb01/"
+        "foto": "https://live-thumbs.video.globo.com/bbb01/snapshot"
       },
       {
         "nome": "CÂMERA PRINCIPAL²",
         "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hras",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb01/"
+        "foto": "https://live-thumbs.video.globo.com/bbb01/snapshot"
       },
       {
         "nome": "Quarto Lollipop",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb03/",
+        "foto": "https://live-thumbs.video.globo.com/bbb03/snapshot",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb03hd&amp;pasta=live"
       },
       {
         "nome": "Quarto Grunge",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb04hd&amp;pasta=live",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb04/"
+        "foto": "https://live-thumbs.video.globo.com/bbb04/snapshot"
       },
       {
         "nome": "Sala",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb07hd&amp;pasta=live",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb07/"
+        "foto": "https://live-thumbs.video.globo.com/bbb07/snapshot"
       },
       {
         "nome": "Cozinha",
         "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=bbb24hras",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb06/"
+        "foto": "https://live-thumbs.video.globo.com/bbb06/snapshot"
       },
       {
         "nome": "Picina",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb08hd&amp;pasta=live",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb08/"
+        "foto": "https://live-thumbs.video.globo.com/bbb08/snapshot"
       },
       {
         "nome": "Jardim",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb09hd&amp;pasta=live",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb09/"
+        "foto": "https://live-thumbs.video.globo.com/bbb09/snapshot"
       },
       {
         "nome": "Chuveiro",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb05hd&amp;pasta=live",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb01/"
+        "foto": "https://live-thumbs.video.globo.com/bbb01/snapshot"
       },
       {
         "nome": "Academia",
@@ -161,13 +161,13 @@
         "nome": "Confessionário",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb02hd&amp;pasta=live",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb02/"
+        "foto": "https://live-thumbs.video.globo.com/bbb02/snapshot"
       },
       {
         "nome": "Mosaico",
         "url": "https://canaismax.com/assistir.php?chmax=bbbmosaicohd",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb01/"
+        "foto": "https://live-thumbs.video.globo.com/bbb01/snapshot"
       }
     ]
   },
