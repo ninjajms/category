@@ -46,25 +46,25 @@
       },
       {
         "nome": "REDE TV¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dREDETVSD",
+        "url": "https://canaismax.com/canal.php?op=W3sicSI6ImhkIiwiY2giOiJyZWRldHZoZCJ9LHsicSI6InNkIiwiY2giOiJyZWRldHZzZCJ9XQ==",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
       },
       {
         "nome": "REDE TV²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dREDETVHD",
+        "url": "https://canaismax.com/canal.php?op=W3sicSI6ImhkIiwiY2giOiJyZWRldHZoZCJ9LHsicSI6InNkIiwiY2giOiJyZWRldHZzZCJ9XQ==",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
       },
       {
         "nome": "SBT¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSBTSD",
+        "url": "https://canaismax.com/assistir_hls.php?link=https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png"
       },
       {
         "nome": "SBT²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSBTHD",
+        "url": "https://canaismax.com/canal.php?op=W3sicSI6ImhkIiwiY2giOiJzYnRoZCJ9LHsicSI6InNkIiwiY2giOiJzYnRzZCJ9XQ==",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png"
       },
