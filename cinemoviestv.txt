@@ -175,77 +175,149 @@
     "categoria": "DISCOVERY",
     "canais": [
       {
-        "nome": "ANIMAL PLANET¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dANIMALPLANETSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
-      },
-      {
-        "nome": "ANIMAL PLANET²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dANIMALPLANETHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
-      },
-      {
-        "nome": "TLC¹",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTLCSD"
-      },
-      {
-        "nome": "TLC²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTLCHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png"
-      },
-      {
-        "nome": "DISCOVERY TURBO¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dDISCOVERYTURBOSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"
-      },
-      {
-        "nome": "DISCOVERY TURBO²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dDISCOVERYTURBOHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"
-      },
-      {
-        "nome": "DISCOVERY CHANNEL¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dDISCOVERYSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png"
-      },
-      {
-        "nome": "DISCOVERY CHANNEL²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dDISCOVERYHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png"
-      },
-      {
-        "nome": "DISCOVERY H\u0026H¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dHOMEHEALTHSD",
-        "cat": "1",
-        "foto": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png"
-      },
-      {
-        "nome": "DISCOVERY H\u0026H²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dHOMEHEALTHHD",
-        "cat": "1",
-        "foto": "https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png"
-      },
-      {
-        "nome": "DISCOVERY ID¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dIDSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png"
-      },
-      {
-        "nome": "DISCOVERY ID²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dIDHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png"
-      }
+			"id":1,
+			"nome":"ANIMAL PLANET - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=animalplanetsd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-2018_Animal_Planet_logo.svg.png?alt=media&token=2fa53416-64a1-4a66-aeaa-7d0dbdab8847"
+		},
+		{
+			"id":1,
+			"nome":"ANIMAL PLANET - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=animalplanethd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-2018_Animal_Planet_logo.svg.png?alt=media&token=2fa53416-64a1-4a66-aeaa-7d0dbdab8847"
+		},
+		{
+			"id":2,
+			"nome":"DISCOVERY CHANNEL - SD",
+			"url":"https://futemax.gratis/assistir_no_geralcdn.php?canal=discoverysd&amp;pasta=live",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/discovery-channel-logo-8.png?alt=media&token=cac5b1e5-7004-4a1e-a421-cde617d1187c"
+		},
+		{
+			"id":2,
+			"nome":"DISCOVERY CHANNEL - HD",
+			"url":"https://futemax.gratis/assistir_no_geralcdn.php?canal=discoveryhd&amp;pasta=live",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/discovery-channel-logo-8.png?alt=media&token=cac5b1e5-7004-4a1e-a421-cde617d1187c"
+		},
+		{
+			"id":3,
+			"nome":"DISCOVERY THEATER - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverytheatersd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1280px-2015_Discovery_theater_HD_logo.svg.png?alt=media&token=882bfcf8-b552-4b25-bd31-fa063f9ee8e5"
+		},
+		{
+			"id":3,
+			"nome":"DISCOVERY THEATER - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverytheaterhd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1280px-2015_Discovery_theater_HD_logo.svg.png?alt=media&token=882bfcf8-b552-4b25-bd31-fa063f9ee8e5"
+		},
+		{
+			"id":4,
+			"nome":"DISCOVERY WORLD - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryworldsd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-World_Discovery_HD_logo.svg.png?alt=media&token=0f500aac-45f3-49bb-ba4d-6b21faff7338"
+		},
+		{
+			"id":4,
+			"nome":"DISCOVERY WORLD - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryworldhd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-World_Discovery_HD_logo.svg.png?alt=media&token=0f500aac-45f3-49bb-ba4d-6b21faff7338"
+		},
+		{
+			"id":5,
+			"nome":"DISCOVERY SCIENCE - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverysciencesd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/LOGO_DISCOVERY_SCIENCE.png?alt=media&token=a0fd3140-db66-4277-b4ec-79c77916f6ee"
+		},
+		{
+			"id":5,
+			"nome":"DISCOVERY SCIENCE - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverysciencehd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/LOGO_DISCOVERY_SCIENCE.png?alt=media&token=a0fd3140-db66-4277-b4ec-79c77916f6ee"
+		},
+		{
+			"id":6,
+			"nome":"DISCOVERY TURBO - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryturbosd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297040721.png?alt=media&token=79d0e927-1391-41d8-afa9-35f76a44dfdc"
+		},
+		{
+			"id":6,
+			"nome":"DISCOVERY TURBO - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryturbohd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297040721.png?alt=media&token=79d0e927-1391-41d8-afa9-35f76a44dfdc"
+		},
+		{
+			"id":7,
+			"nome":"H2 - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=h2sd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/History2Logo2019.png?alt=media&token=a5f80209-e903-4382-9201-05ff0bc9afe6"
+		},
+		{
+			"id":7,
+			"nome":"H2 - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=h2hd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/History2Logo2019.png?alt=media&token=a5f80209-e903-4382-9201-05ff0bc9afe6"
+		},
+		{
+			"id":8,
+			"nome":"HISTORY CHANNEL - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=historysd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/history-channel-logo.png?alt=media&token=a83458a8-f9bc-45b1-9fa2-bfd8d7cab171"
+		},
+		{
+			"id":8,
+			"nome":"HISTORY CHANNEL - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=historyhd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/history-channel-logo.png?alt=media&token=a83458a8-f9bc-45b1-9fa2-bfd8d7cab171"
+		},
+		{
+			"id":9,
+			"nome":"INVESTIGAÇÃO DISCOVERY - HD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=idhd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-InvestigationDiscoveryLogo2020.svg.png?alt=media&token=a1164742-0cc3-4147-a0c2-1f1db7b82495"
+		},
+		{
+			"id":9,
+			"nome":"INVESTIGAÇÃO DISCOVERY - SD",
+			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=idhd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-InvestigationDiscoveryLogo2020.svg.png?alt=media&token=a1164742-0cc3-4147-a0c2-1f1db7b82495"
+		},
+		{
+			"id":10,
+			"nome":"NAT GEO - HD",
+			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeo",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/logo.png?alt=media&token=b520c8a0-f8a9-4823-8755-f83ce361a3c7"
+		},
+		{
+			"id":10,
+			"nome":"NAT GEO - SD",
+			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeo",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/logo.png?alt=media&token=b520c8a0-f8a9-4823-8755-f83ce361a3c7"
+		},
+		{
+			"id":11,
+			"nome":"NAT GEO WILD - HD",
+			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeowild",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-National_Geographic_Wild_logo.svg.png?alt=media&token=cbc36d72-54a5-464f-8863-d67816e2ac7c"
+		},
+		{
+			"id":11,
+			"nome":"NAT GEO WILD - SD",
+			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeowild",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-National_Geographic_Wild_logo.svg.png?alt=media&token=cbc36d72-54a5-464f-8863-d67816e2ac7c"
+		},
+		{
+			"id":12,
+			"nome":"TLC - SD",
+			"url":"https://canaismax.com/assistir.php?chmax=tlchd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297747921.png?alt=media&token=1eb8f307-bc63-4710-9c50-89b3a70da14c"
+		},
+		{
+			"id":12,
+			"nome":"TLC - HD",
+			"url":"https://canaismax.com/assistir.php?chmax=tlchd",
+			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297747921.png?alt=media&token=1eb8f307-bc63-4710-9c50-89b3a70da14c"
+		}
     ]
   },
   {
