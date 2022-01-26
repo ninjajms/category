@@ -134,7 +134,7 @@
         "foto": "https://live-thumbs.video.globo.com/bbb06/snapshot"
       },
       {
-        "nome": "Picina",
+        "nome": "Piscina",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb08hd&amp;pasta=live",
         "cat": "1",
         "foto": "https://live-thumbs.video.globo.com/bbb08/snapshot"
