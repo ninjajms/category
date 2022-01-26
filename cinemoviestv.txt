@@ -133,7 +133,7 @@
         "url": "https://esporteone.com/player/canais.php?canal\u003dDISCOVERYTURBOHD",
         "cat": "1",
         "foto": "https://raw.githubusercontent.com/ninjajms/category/main/chamada-bbb22-como-assistir-gratis-ao-vivo-pc-celular.avif"
-      },
+      }
     ]
   },
   {
