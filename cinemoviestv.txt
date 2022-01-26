@@ -94,7 +94,6 @@
       }
     ]
   },
-  [
   {
     "categoria": "REALITYS",
     "canais": [
