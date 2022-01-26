@@ -155,7 +155,7 @@
         "nome": "Academia",
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bbb10hd&amp;pasta=live",
         "cat": "1",
-        "foto": "https://live-thumbs.video.globo.com/bbb10/"
+        "foto": "https://live-thumbs.video.globo.com/bbb10/snapshot/"
       },
       {
         "nome": "Confessionário",
