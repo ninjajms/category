@@ -4,43 +4,43 @@
     "canais": [
       {
         "nome": "GLOBO RJ",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dGLOBORJ",
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs1",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
       {
         "nome": "GLOBO SP",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dGLOBOSP",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosphd&amp;pasta=live",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
       {
         "nome": "GLOBO MG",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dGLOBOMINAS",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&amp;pasta=live",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
       {
         "nome": "GLOBO MG",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dGLOBOMINAS",
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs1",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
       {
         "nome": "GLOBO NSC",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dNSC",
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs1",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
       {
         "nome": "GLOBO NE",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dGLOBONOR",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&amp;pasta=live",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
       {
         "nome": "GLOBO RBS",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dRBS",
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&amp;pasta=live",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
