@@ -5,6 +5,7 @@
         "id": "3467",
         "title": "Homem-Aranha: Sem Volta Para Casa",
         "sub_title": "Dublado",
+        "genero": "Ação",
         "image": "http://image.tmdb.org/t/p/w780//1Rr5SrvHxMXHu5RjKpaMba8VTzi.jpg",
         "type": "movie"
       },
@@ -12,6 +13,7 @@
         "id": "3359",
         "title": "Venom 2",
         "sub_title": "Dublado",
+        "genero": "Comédia",
         "image": "http://image.tmdb.org/t/p/w780//rtt2ns88CoCPEjyO4khihlzKcgy.jpg",
         "type": "movie"
       },
@@ -19,6 +21,7 @@
         "id": "3293",
         "title": "Eternos",
         "sub_title": "Dublado",
+        "genero": "Drama",
         "image": "http://image.tmdb.org/t/p/w780//lyvszvJJqqI8aqBJ70XzdCNoK0y.jpg",
         "type": "movie"
       },
@@ -26,6 +29,7 @@
         "id": "1107",
         "title": "The Boys",
         "sub_title": "",
+        "genero": "Ficção científica",
         "image": "https://image.tmdb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg",
         "type": "series"
       },
@@ -33,6 +37,7 @@
         "id": "1098",
         "title": "Riverdale",
         "sub_title": "",
+        "genero": "Suspense",
         "image": "http://visionnetworks.site//images/series/7673_fundo.jpg",
         "type": "series"
       }
