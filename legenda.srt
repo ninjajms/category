@@ -1,0 +1,8 @@
+1
+00:00:00,167 --> 00:00:04,000
+CineMovies, Sempre na frente!
+
+2
+00:00:04,000 --> 00:00:20,000
+Site Oficial
+www.cinemovies.online
