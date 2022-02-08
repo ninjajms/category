@@ -1,7 +1,10 @@
 {
 "status": "false", 
-"title": "Aplicativo em Manutenção!", 
-"sinopse": "desculpe pelo inconveniente voltaremos em breve com novidades!",
-"button":"Sair", 
+"title": "Atualização disponível!", 
+"sinopse": "- UI/DESIGNER PLAYER
+- UI/DESIGNER UPDATE
+- UI/DESIGNER STORAGE
+- UI/DESIGNER THUMB",
+"button":"Baixar", 
 "link": "http://cinemovies.online"
 }
