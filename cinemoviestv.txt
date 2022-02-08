@@ -4,7 +4,7 @@
     "canais": [
       {
         "nome": "GLOBO RJ",
-        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs1",
+        "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8",
         "cat": "1",
         "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
       },
