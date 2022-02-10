@@ -3,99 +3,134 @@
     "categoria": "ABERTOS",
     "canais": [
       {
-        "nome": "GLOBO RJ",
-        "url": "https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
-      },
-      {
-        "nome": "GLOBO SP",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosphd&amp;pasta=live",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
-      },
-      {
-        "nome": "GLOBO MG¹",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globominas&amp;pasta=mylive",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
-      },
-      {
-        "nome": "GLOBO MG²",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globomghd&amp;pasta=live",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
-      },
-      {
-        "nome": "GLOBO NSC",
         "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=vintequatrohrs1",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
+        "nome": "GLOBO - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/b60c1ffd4630f5d8213b58f4c049ea40.jpeg",
+        "cat": "1"
       },
       {
-        "nome": "GLOBO NE",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&amp;pasta=live",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&pasta=live",
+        "nome": "GLOBO - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/b60c1ffd4630f5d8213b58f4c049ea40.jpeg",
+        "cat": "1"
       },
       {
-        "nome": "GLOBO RBS",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&amp;pasta=live",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png"
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=globosp&pasta=live",
+        "nome": "GLOBO - OPÇÃO 3",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/b60c1ffd4630f5d8213b58f4c049ea40.jpeg",
+        "cat": "1"
       },
       {
-        "nome": "REDE TV¹",
-        "url": "https://canaismax.com/canal.php?op=W3sicSI6ImhkIiwiY2giOiJyZWRldHZoZCJ9LHsicSI6InNkIiwiY2giOiJyZWRldHZzZCJ9XQ==",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=futemax13",
+        "nome": "SBT - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/5cba3d4d75819c3ba20fc8370d4a2b69.jpg",
+        "cat": "1"
       },
       {
-        "nome": "REDE TV²",
-        "url": "https://canaismax.com/canal.php?op=W3sicSI6ImhkIiwiY2giOiJyZWRldHZoZCJ9LHsicSI6InNkIiwiY2giOiJyZWRldHZzZCJ9XQ==",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png"
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=sbtsd&pasta=mylive",
+        "nome": "SBT - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/5cba3d4d75819c3ba20fc8370d4a2b69.jpg",
+        "cat": "1"
       },
       {
-        "nome": "SBT¹",
-        "url": "https://canaismax.com/assistir_hls.php?link=https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png"
+        "url": "https://futemax.gratis/assistir_no_cdn.php?id=https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8",
+        "nome": "RECORDTV - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/7d91d9df32aa76135c5e06570ae34bc5.jpg",
+        "cat": "1"
       },
       {
-        "nome": "SBT²",
-        "url": "https://canaismax.com/canal.php?op=W3sicSI6ImhkIiwiY2giOiJzYnRoZCJ9LHsicSI6InNkIiwiY2giOiJzYnRzZCJ9XQ==",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png"
-      },
-      {
-        "nome": "RECORD TV¹",
-        "url": "https://futemax.gratis/assistir_no_cdn.php?id=https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"
-      },
-      {
-        "nome": "RECORD TV²",
         "url": "https://futemax.gratis/assistir_no_cdn.php?id=https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png"
+        "nome": "RECORDTV - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/7d91d9df32aa76135c5e06570ae34bc5.jpg",
+        "cat": "1"
       },
       {
-        "nome": "BAND¹",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bandcampinassd&amp;pasta=mylive",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1200px-Rede_Bandeirantes_logo_2018.svg.png"
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=esportes1",
+        "nome": "BAND - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/5cba3d4d75819c3ba20fc8370d4a2b69.jpg",
+        "cat": "1"
       },
       {
-        "nome": "BAND²",
-        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bandcampinashd&amp;pasta=mylive",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1200px-Rede_Bandeirantes_logo_2018.svg.png"
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bandcampinassd&pasta=mylive",
+        "nome": "BAND - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/7d91d9df32aa76135c5e06570ae34bc5.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=bandcampinashd&pasta=mylive",
+        "nome": "BAND - OPÇÃO 3",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/7d91d9df32aa76135c5e06570ae34bc5.jpg",
+        "cat": "1"
       }
     ]
   },
   {
-    "categoria": "REALITYS",
+    "categoria": "FILMES / SERIES",
+    "canais": [
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hbofamilysd&pasta=live",
+        "nome": "HBO FAMILY - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/1427a998795e19f9cba3069593bdb375.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hbofamilyhd&pasta=live",
+        "nome": "HBO FAMILY - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/1427a998795e19f9cba3069593bdb375.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=cinemaxhd&pasta=live",
+        "nome": "CINEMAX - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/e9a4b833c7b66616dc7bb2c274981e52.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=cinemaxsd&pasta=live",
+        "nome": "CINEMAX - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/e9a4b833c7b66616dc7bb2c274981e52.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hbo2sd&pasta=live",
+        "nome": "HBO 2 - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/d155da9677cc9c0030ee395a46141925.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hbo2hd&pasta=live",
+        "nome": "HBO 2 - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/d155da9677cc9c0030ee395a46141925.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hboplussd&pasta=live",
+        "nome": "HBO PLUS - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/33b737669229b0e0ef94dbcd93ac5d85.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hboplushd&pasta=live",
+        "nome": "HBO PLUS - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/33b737669229b0e0ef94dbcd93ac5d85.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hbosignaturesd&pasta=live",
+        "nome": "HBO SIGNATURE - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/efc9a11a06f4f237360af80af28bcfeb.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=hbosignaturehd&pasta=live",
+        "nome": "HBO SIGNATURE - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/efc9a11a06f4f237360af80af28bcfeb.jpg",
+        "cat": "1"
+      }
+    ]
+  },
+  {
+    "categoria": "BBB - 2022",
     "canais": [
     {
         "nome": "CÂMERA PRINCIPAL¹",
@@ -168,549 +203,6 @@
         "url": "https://canaismax.com/assistir.php?chmax=bbbmosaicohd",
         "cat": "1",
         "foto": "https://live-thumbs.video.globo.com/bbb01/snapshot"
-      }
-    ]
-  },
-  {
-    "categoria": "DISCOVERY",
-    "canais": [
-      {
-			"id":1,
-			"nome":"ANIMAL PLANET - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=animalplanetsd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-2018_Animal_Planet_logo.svg.png?alt=media&token=2fa53416-64a1-4a66-aeaa-7d0dbdab8847"
-		},
-		{
-			"id":1,
-			"nome":"ANIMAL PLANET - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=animalplanethd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-2018_Animal_Planet_logo.svg.png?alt=media&token=2fa53416-64a1-4a66-aeaa-7d0dbdab8847"
-		},
-		{
-			"id":2,
-			"nome":"DISCOVERY CHANNEL - SD",
-			"url":"https://futemax.gratis/assistir_no_geralcdn.php?canal=discoverysd&amp;pasta=live",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/discovery-channel-logo-8.png?alt=media&token=cac5b1e5-7004-4a1e-a421-cde617d1187c"
-		},
-		{
-			"id":2,
-			"nome":"DISCOVERY CHANNEL - HD",
-			"url":"https://futemax.gratis/assistir_no_geralcdn.php?canal=discoveryhd&amp;pasta=live",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/discovery-channel-logo-8.png?alt=media&token=cac5b1e5-7004-4a1e-a421-cde617d1187c"
-		},
-		{
-			"id":3,
-			"nome":"DISCOVERY THEATER - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverytheatersd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1280px-2015_Discovery_theater_HD_logo.svg.png?alt=media&token=882bfcf8-b552-4b25-bd31-fa063f9ee8e5"
-		},
-		{
-			"id":3,
-			"nome":"DISCOVERY THEATER - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverytheaterhd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1280px-2015_Discovery_theater_HD_logo.svg.png?alt=media&token=882bfcf8-b552-4b25-bd31-fa063f9ee8e5"
-		},
-		{
-			"id":4,
-			"nome":"DISCOVERY WORLD - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryworldsd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-World_Discovery_HD_logo.svg.png?alt=media&token=0f500aac-45f3-49bb-ba4d-6b21faff7338"
-		},
-		{
-			"id":4,
-			"nome":"DISCOVERY WORLD - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryworldhd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-World_Discovery_HD_logo.svg.png?alt=media&token=0f500aac-45f3-49bb-ba4d-6b21faff7338"
-		},
-		{
-			"id":5,
-			"nome":"DISCOVERY SCIENCE - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverysciencesd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/LOGO_DISCOVERY_SCIENCE.png?alt=media&token=a0fd3140-db66-4277-b4ec-79c77916f6ee"
-		},
-		{
-			"id":5,
-			"nome":"DISCOVERY SCIENCE - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoverysciencehd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/LOGO_DISCOVERY_SCIENCE.png?alt=media&token=a0fd3140-db66-4277-b4ec-79c77916f6ee"
-		},
-		{
-			"id":6,
-			"nome":"DISCOVERY TURBO - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryturbosd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297040721.png?alt=media&token=79d0e927-1391-41d8-afa9-35f76a44dfdc"
-		},
-		{
-			"id":6,
-			"nome":"DISCOVERY TURBO - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=discoveryturbohd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297040721.png?alt=media&token=79d0e927-1391-41d8-afa9-35f76a44dfdc"
-		},
-		{
-			"id":7,
-			"nome":"H2 - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=h2sd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/History2Logo2019.png?alt=media&token=a5f80209-e903-4382-9201-05ff0bc9afe6"
-		},
-		{
-			"id":7,
-			"nome":"H2 - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=h2hd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/History2Logo2019.png?alt=media&token=a5f80209-e903-4382-9201-05ff0bc9afe6"
-		},
-		{
-			"id":8,
-			"nome":"HISTORY CHANNEL - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=historysd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/history-channel-logo.png?alt=media&token=a83458a8-f9bc-45b1-9fa2-bfd8d7cab171"
-		},
-		{
-			"id":8,
-			"nome":"HISTORY CHANNEL - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=historyhd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/history-channel-logo.png?alt=media&token=a83458a8-f9bc-45b1-9fa2-bfd8d7cab171"
-		},
-		{
-			"id":9,
-			"nome":"INVESTIGAÇÃO DISCOVERY - HD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=idhd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-InvestigationDiscoveryLogo2020.svg.png?alt=media&token=a1164742-0cc3-4147-a0c2-1f1db7b82495"
-		},
-		{
-			"id":9,
-			"nome":"INVESTIGAÇÃO DISCOVERY - SD",
-			"url":"https://futemax.gratis:443/assistir_no_geralcdn.php?canal=idhd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-InvestigationDiscoveryLogo2020.svg.png?alt=media&token=a1164742-0cc3-4147-a0c2-1f1db7b82495"
-		},
-		{
-			"id":10,
-			"nome":"NAT GEO - HD",
-			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeo",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/logo.png?alt=media&token=b520c8a0-f8a9-4823-8755-f83ce361a3c7"
-		},
-		{
-			"id":10,
-			"nome":"NAT GEO - SD",
-			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeo",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/logo.png?alt=media&token=b520c8a0-f8a9-4823-8755-f83ce361a3c7"
-		},
-		{
-			"id":11,
-			"nome":"NAT GEO WILD - HD",
-			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeowild",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-National_Geographic_Wild_logo.svg.png?alt=media&token=cbc36d72-54a5-464f-8863-d67816e2ac7c"
-		},
-		{
-			"id":11,
-			"nome":"NAT GEO WILD - SD",
-			"url":"https://homeingles.fun/player3/canaishlb.php?canal=natgeowild",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1200px-National_Geographic_Wild_logo.svg.png?alt=media&token=cbc36d72-54a5-464f-8863-d67816e2ac7c"
-		},
-		{
-			"id":12,
-			"nome":"TLC - SD",
-			"url":"https://canaismax.com/assistir.php?chmax=tlchd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297747921.png?alt=media&token=1eb8f307-bc63-4710-9c50-89b3a70da14c"
-		},
-		{
-			"id":12,
-			"nome":"TLC - HD",
-			"url":"https://canaismax.com/assistir.php?chmax=tlchd",
-			"foto":"https://firebasestorage.googleapis.com/v0/b/chat-caed0.appspot.com/o/1621297747921.png?alt=media&token=1eb8f307-bc63-4710-9c50-89b3a70da14c"
-		}
-    ]
-  },
-  {
-    "categoria": "ESPORTES",
-    "canais": [
-      {
-        "nome": "SPORTV 1¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dSPORTVSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/1200px-SporTV_2017_logo.svg.png"
-      },
-      {
-        "nome": "SPORTV 1²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dSPORTVHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/1200px-SporTV_2017_logo.svg.png"
-      },
-      {
-        "nome": "SPORTV 2¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dSPORTV2SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png"
-      },
-      {
-        "nome": "SPORTV 2²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dSPORTV2HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1280px-SporTV_2_2017_logo.svg.png"
-      },
-      {
-        "nome": "SPORTV 3¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dSPORTV3SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1200px-SporTV_3_2017_logo.svg.png"
-      },
-      {
-        "nome": "SPORTV 3²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dSPORTV3HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1200px-SporTV_3_2017_logo.svg.png"
-      },
-      {
-        "nome": "COMBATE¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dCOMBATESD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png"
-      },
-      {
-        "nome": "COMBATE²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dCOMBATEHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png"
-      },
-      {
-        "nome": "ESPN¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dESPN",
-        "cat": "1",
-        "foto": "https://a1.espncdn.com/combiner/i?img\u003d%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
-      },
-      {
-        "nome": "ESPN²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dESPN",
-        "cat": "1",
-        "foto": "https://a1.espncdn.com/combiner/i?img\u003d%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
-      },
-      {
-        "nome": "PREMIERE¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERECLUBESSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERECLUBESHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 2¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE2SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 2²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE2HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 3¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE3SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 3²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE3HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 4¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE4SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 4²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE4HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 5¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE5SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 5²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE5HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 6¹",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE6SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "PREMIERE 6²",
-        "url": "https://esporteone.com/player/jogos.php?canal\u003dPREMIERE6HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png"
-      },
-      {
-        "nome": "BAND SPORTS¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dBANDSPORTSHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png"
-      },
-      {
-        "nome": "BAND SPORTS²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dBANDSPORTSHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png"
-      },
-      {
-        "nome": "FOX SP1¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFOXSPORTSSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png"
-      },
-      {
-        "nome": "FOX SP1²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFOXSPORTSHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png"
-      },
-      {
-        "nome": "FOX SP2¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFOXSPORTS2SD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"
-      },
-      {
-        "nome": "FOX SP2²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFOXSPORTS2HD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"
-      }
-    ]
-  },
-  {
-    "categoria": "FILMES/SERIES",
-    "canais": [
-      {
-        "nome": "AMC¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dAMCSD",
-        "cat": "1",
-        "foto": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTyiSNsWhe08ddQz234ZnHMUjgY5SjO-Erhtg\u0026usqp\u003dCAU"
-      },
-      {
-        "nome": "AMC²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dAMCHD",
-        "cat": "1",
-        "foto": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTyiSNsWhe08ddQz234ZnHMUjgY5SjO-Erhtg\u0026usqp\u003dCAU"
-      },
-      {
-        "nome": "A\u0026E¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dAEESD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png"
-      },
-      {
-        "nome": "A\u0026E²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dAEEHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png"
-      },
-      {
-        "nome": "CINEMAX¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dCINEMAXSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"
-      },
-      {
-        "nome": "CINEMAX²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dCINEMAXHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png"
-      },
-      {
-        "nome": "MEGAPIX¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dMEGAPIXSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png"
-      },
-      {
-        "nome": "MEGAPIX²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dMEGAPIXHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png"
-      },
-      {
-        "nome": "SPACE¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSPACESD",
-        "cat": "1",
-        "foto": "https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png"
-      },
-      {
-        "nome": "SPACE²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSPACEHD",
-        "cat": "1",
-        "foto": "https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/s640/spacehd.png"
-      },
-      {
-        "nome": "TC ACTION¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEACTIONSD",
-        "cat": "1",
-        "foto": "https://skytvplanos.com.br/img/channels/lg-62-canal-tc-action.png"
-      },
-      {
-        "nome": "TC ACTION²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEACTIONHD",
-        "cat": "1",
-        "foto": "https://skytvplanos.com.br/img/channels/lg-62-canal-tc-action.png"
-      },
-      {
-        "nome": "TC FUN¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEFUNSD",
-        "cat": "1",
-        "foto": "https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png"
-      },
-      {
-        "nome": "TC FUN²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEFUNHD",
-        "cat": "1",
-        "foto": "https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png"
-      },
-      {
-        "nome": "TC PREMIUM¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEPREMIUMSD",
-        "cat": "1",
-        "foto": "https://skytvplanos.com.br/img/channels/lg-61-canal-tc-premium.png"
-      },
-      {
-        "nome": "TC PREMIUM²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEPREMIUMHD",
-        "cat": "1",
-        "foto": "https://skytvplanos.com.br/img/channels/lg-61-canal-tc-premium.png"
-      },
-      {
-        "nome": "TC PIPOCA¹",
-        "cat": "1",
-        "foto": "https://skytvplanos.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEPIPOCASD"
-      },
-      {
-        "nome": "TC PIPOCA²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTELECINEPIPOCAHD",
-        "cat": "1",
-        "foto": "https://skytvplanos.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png"
-      },
-      {
-        "nome": "TNT SERIES¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTNTSERIESSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"
-      },
-      {
-        "nome": "TNT SERIES²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTNTSERIESHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"
-      },
-      {
-        "nome": "TNT¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTNTSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/5/52/TNT_TV_logo.PNG"
-      },
-      {
-        "nome": "TNT²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dTNTHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/5/52/TNT_TV_logo.PNG"
-      },
-      {
-        "nome": "AXN¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dAXNSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"
-      },
-      {
-        "nome": "AXN²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dAXNHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png"
-      },
-      {
-        "nome": "FOX¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFOXSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png"
-      },
-      {
-        "nome": "FOX²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFOXHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png"
-      },
-      {
-        "nome": "FX¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFXSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png"
-      },
-      {
-        "nome": "FX²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dFXHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png"
-      },
-      {
-        "nome": "SONY¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSONYSD",
-        "cat": "1",
-        "foto": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g\u0026usqp\u003dCAU"
-      },
-      {
-        "nome": "SONY²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSONYHD",
-        "cat": "1",
-        "foto": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g\u0026usqp\u003dCAU"
-      },
-      {
-        "nome": "UNIVERSAL¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dUNIVERSALSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"
-      },
-      {
-        "nome": "UNIVERSAL²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dUNIVERSALHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"
-      },
-      {
-        "nome": "SYFY¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSYFYSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png"
-      },
-      {
-        "nome": "SYFY²",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dSYFYHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png"
-      },
-      {
-        "nome": "WARNER¹",
-        "url": "https://esporteone.com/player/canais.php?canal\u003dWARNERSD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"
-      },
-      {
-        "url": "https://esporteone.com/player/canais.php?canal\u003dWARNERHD",
-        "cat": "1",
-        "foto": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",
-        "nome": "WARNER²"
       }
     ]
   }
