@@ -126,6 +126,78 @@
         "nome": "HBO SIGNATURE - OPÇÃO 2",
         "foto": "https://static.futemax.gratis/wp-content/uploads/efc9a11a06f4f237360af80af28bcfeb.jpg",
         "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecineactionsd&pasta=mylive",
+        "nome": "TELECINE ACTION - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/894b80b598cf73e17141a13ea934b081.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecineactionhd&pasta=mylive",
+        "nome": "TELECINE ACTION - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/894b80b598cf73e17141a13ea934b081.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecinecultsd&pasta=live",
+        "nome": "TELECINE CULT - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/e753dc568fd2323a7553cf6b80d2e7e5.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecineculthd&pasta=live",
+        "nome": "TELECINE CULT - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/e753dc568fd2323a7553cf6b80d2e7e5.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=tcfunsd&pasta=live",
+        "nome": "TELECINE FUN - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/0cfe9e50e5f26aca089126d96641749e.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=tcfunhd&pasta=live",
+        "nome": "TELECINE FUN - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/0cfe9e50e5f26aca089126d96641749e.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecinepipocasd&pasta=live",
+        "nome": "TELECINE PIPOCA - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/fa676fc3ff942e6e39ba98c72ba0b515.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecinepipocahd&pasta=live",
+        "nome": "TELECINE PIPOCA - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/fa676fc3ff942e6e39ba98c72ba0b515.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecinepremiumsd&pasta=mylive",
+        "nome": "TELECINE PREMIUM - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/be86ad7a2eb6e16337ea4aca4ac78ac5.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecinepremiumhd&pasta=live",
+        "nome": "TELECINE PREMIUM - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/be86ad7a2eb6e16337ea4aca4ac78ac5.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecinetouchsd&pasta=live",
+        "nome": "TELECINE TOUCH - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/af03110534bb069a9cb32a3e4e576ca7.jpg",
+        "cat": "1"
+      },
+      {
+        "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=telecinetouchhd&pasta=live",
+        "nome": "TELECINE TOUCH - OPÇÃO 2",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/af03110534bb069a9cb32a3e4e576ca7.jpg",
+        "cat": "1"
       }
     ]
   },
