@@ -1,5 +1,5 @@
-[
-  "cinemovies_top10",
+{
+  "cinemovies":[
   {
     "top": "#1",
     "name": "Tom Holland",
@@ -50,4 +50,5 @@
     "name": "Timothée Chalamet",
     "foto": "https://image.tmdb.org/t/p/w500/i31xZ0qcki624t1y76fPGlQPVgI.jpg"
   }
-]
+ ]
+}
