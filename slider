@@ -1,46 +1,51 @@
 {
   "cinemovies": {
     "banner": [
-      {
-        "id": "3467",
-        "title": "Homem-Aranha: Sem Volta Para Casa",
-        "sub_title": "Dublado",
-        "genero": "Ação",
-        "image": "http://image.tmdb.org/t/p/w780//1Rr5SrvHxMXHu5RjKpaMba8VTzi.jpg",
-        "type": "movie"
-      },
-      {
-        "id": "3359",
-        "title": "Venom 2",
-        "sub_title": "Dublado",
-        "genero": "Comédia",
-        "image": "http://image.tmdb.org/t/p/w780//rtt2ns88CoCPEjyO4khihlzKcgy.jpg",
-        "type": "movie"
-      },
-      {
-        "id": "3293",
-        "title": "Eternos",
-        "sub_title": "Dublado",
-        "genero": "Drama",
-        "image": "http://image.tmdb.org/t/p/w780//lyvszvJJqqI8aqBJ70XzdCNoK0y.jpg",
-        "type": "movie"
-      },
-      {
-        "id": "1107",
-        "title": "The Boys",
-        "sub_title": "",
-        "genero": "Ficção científica",
-        "image": "https://image.tmdb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg",
-        "type": "series"
-      },
-      {
-        "id": "1098",
-        "title": "Riverdale",
-        "sub_title": "",
-        "genero": "Suspense",
-        "image": "http://visionnetworks.site//images/series/7673_fundo.jpg",
-        "type": "series"
-      }
-    ]
+    {
+      "type": "movies",
+      "title": "Um Sonho de Liberdade",
+      "url": "https://thefilmes.tv/filmes/278-um-sonho-de-liberdade/",
+      "category": "Crime, Drama",
+      "imdb": "tt0111161",
+      "backdrop": "https://image.tmdb.org/t/p/w500/avedvodAZUcwqevBfm8p4G2NziQ.jpg",
+      "imdbRating": "9.3"
+    },
+    {
+      "type": "movies",
+      "title": "Ekip Oyunu",
+      "url": "https://thefilmes.tv/filmes/859862-ekip-oyunu/",
+      "category": "Lançamento, Terror, Thriller",
+      "imdb": "tt15048600",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8AErmfBsr6E8czn2L5KvpIfUjie.jpg",
+      "imdbRating": "9.3"
+    },
+    {
+      "type": "movies",
+      "title": "O Poderoso Chefão",
+      "url": "https://thefilmes.tv/filmes/238-o-poderoso-chefao/",
+      "category": "Crime, Drama",
+      "imdb": "tt0068646",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7VrRna8S3x6xbijooeBmxqvHXiu.jpg",
+      "imdbRating": "9.2"
+    },
+    {
+      "type": "movies",
+      "title": "Batman: O Cavaleiro das Trevas",
+      "url": "https://thefilmes.tv/filmes/155-batman-o-cavaleiro-das-trevas/",
+      "category": "Ação, Crime, Drama, Thriller",
+      "imdb": "tt0468569",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+      "imdbRating": "9.0"
+    },
+    {
+      "type": "movies",
+      "title": "O Silêncio da Chuva",
+      "url": "https://thefilmes.tv/filmes/747016-o-silencio-da-chuva/",
+      "category": "Crime, Lançamento",
+      "imdb": "tt9463434",
+      "backdrop": "https://image.tmdb.org/t/p/w500/mgoXpuUgeLaKprmFmRbHT3R68PU.jpg",
+      "imdbRating": "9"
+    }
+   ]
   }
 }
