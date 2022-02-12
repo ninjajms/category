@@ -342,6 +342,12 @@
     "categoria": "SPORTS",
     "canais": [
       {
+        "url": "https://futemax.gratis/assistir_no_thanksgod.php?id=esportes7",
+        "nome": "BAND SPORTS - OPÇÃO 1",
+        "foto": "https://static.futemax.gratis/wp-content/uploads/chelsea-x-palmeiras.png",
+        "cat": "1"
+      },
+      {
         "url": "https://futemax.gratis/assistir_no_geralcdn.php?canal=espnmaissd&pasta=mylive",
         "nome": "ESPN 2 BRASIL - OPÇÃO 1",
         "foto": "https://static.futemax.gratis/wp-content/uploads/e0003e7b520cce937c28a8f8948e899e.png",
