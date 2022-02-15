@@ -1,11 +1,10 @@
 {
-"status": "false", 
+"status": "true", 
 "title": "Atualização disponível!", 
 "sinopse": "
 - UI/DESIGNER PLAYER
-- UI/DESIGNER UPDATE
-- UI/DESIGNER STORAGE
-- UI/DESIGNER THUMB",
+- UI/DESIGNER SLIDER FILMES
+- UI/DESIGNER TELA DETALHES FILME/SERIE",
 "button":"Baixar", 
 "link": "http://cinemovies.online",
 "trailer":"false",
